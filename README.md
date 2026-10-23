@@ -6,8 +6,8 @@ are written, and the bot remembers the conversation, so follow-up questions work
 
 ## Screenshots
 <p align="center">
-  <img src="assets/sscreenshot-home.png" alt="Start screen" width="48%">
-  <img src="assets/sscreenshot-chat.png" alt="Conversation" width="48%">
+  <img src="assets/screenshot-home.png" alt="Start screen" width="48%">
+  <img src="assets/screenshot-chat.png" alt="Conversation" width="48%">
 </p>
 
 ## Features
