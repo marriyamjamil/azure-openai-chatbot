@@ -4,7 +4,7 @@ A clean, minimal chatbot built with Streamlit. It uses the **gpt-4.1-mini** mode
 deployed in Azure AI Foundry through the OpenAI Responses API. Answers stream in as they
 are written, and the bot remembers the conversation, so follow-up questions work.
 
-## Screenshots
+## App Preview
 <p align="center">
   <img src="assets/screenshot-home.png" alt="Start screen" width="80%">
 </p>
