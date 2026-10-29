@@ -1,3 +1,9 @@
 streamlit>=1.31.0
-openai>=1.66.0
 python-dotenv>=1.0.0
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+fastembed
+pypdf
