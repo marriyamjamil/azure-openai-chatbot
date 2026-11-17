@@ -20,7 +20,7 @@ what you can ask about.
 
 ## App Preview
 <p align="center">
-  <img src="assets/screenshot_home.png" alt="Start screen" width="48%">
+  <img src="assets/screenshot-home.png" alt="Start screen" width="48%">
   <img src="assets/screenshot-chat.png" alt="Conversation" width="48%">
 </p>
 
